@@ -1,0 +1,28 @@
+
+==== ETIQUETAS ===
+
+### a) <EtiquetaConContenido> Contenido </EtiquetaConContenido>  
+
+<p> Parrafo </p> (Agregamos un parrafo)
+---
+<h1> Encabezado </h1> (TITULO, solo debe haber uno en la pagina)
+<h2> Encabezado mas pequeño que el anterior </h2> (subTITULO)
+ahi hasta <h6>
+---
+<strong> Parrafo en NEGRITA</strong>
+---
+<em> Parrafo en CURSIVA </em>
+---
+<span> Parrafo </span>
+(Etiqueta que no hace ninguna accioin sobre el parrafo de forma directa, 
+sirve para agregarle atributos: identificadores, clases - para luego en 
+css darle estilos.
+ <span id="resaltado" class= "rojo amarillo"> 
+)
+
+### b) <EtiquetaSinContenido>
+
+<br/>  (Agrega un salto de linea)
+---
+<hr/>  (Agrega usalto de linea pero dibujando una linea completa)
+---
