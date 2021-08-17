@@ -1,0 +1,7 @@
+CONFIGURAR CUENTA REPO GIT
+
+git config user.name "rvegass" 
+(agregamos usuario git)
+
+git config user.email "ramon.baldiviezo@samsistemas.com.ar"
+(agregamos el mail de la cuenta git)
